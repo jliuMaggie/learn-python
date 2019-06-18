@@ -1,2 +1,7 @@
 print("Hello Python world!")
 
+message="Hellow Python world!"
+print(message)
+
+message="You know nothing Jon Snow."
+print(message)
